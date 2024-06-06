@@ -11,4 +11,4 @@ const Home = () => {
 	)
 }
 
-export default Homei
+export default Home
