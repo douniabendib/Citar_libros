@@ -10,7 +10,7 @@ const Header = () => {
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
                 <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Searching for the perfect book can feel like looking for a needle in a haystack. With millions of titles available, it's easy to get lost in the endless virtual shelves. But a well-designed search experience can make all the difference.</p>
+                <p className='header-text fs-18 fw-3'>Welcome to the magical world of Books searching for the perfect book can feel like looking for a needle in a haystack.</p>
                 <SearchForm />
             </div>
         </header>
